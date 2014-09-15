@@ -1,0 +1,21 @@
+body {  font-size:16px;  color:#333; background-color:#F4C2C2; }
+
+h1 { font-family: 'Permanent Marker', cursive; font-size: 2em; letter-spacing: 4px; margin:.4em; }
+body { font-family: 'Special Elite', cursive; }
+
+#blanks li {list-style-type: none;}
+
+#page { margin:auto; width:900px;  text-align:center; }
+#content > div { display:inline; float:left; text-align:left; }
+#content  li { margin: 22px;}
+
+.cf { clear:both;}
+
+
+/* Flaired edges, by Tomas Theunissen */
+
+hr {
+    border-style: solid;
+    border-color: #444;
+    border-width: 1px 0 0 0;
+}
